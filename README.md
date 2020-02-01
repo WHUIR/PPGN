@@ -36,7 +36,7 @@ Please cite our paper if you find this code useful for your research:
   - `main.py`: the main function (including the configurations);
   - `model.py`: the detail implementation of PPGN;
   - `train.py`: training and evaluation;
-- `utils`
+- `utils/`
   - `metrics.py`: evaluation metrics.
 
 
