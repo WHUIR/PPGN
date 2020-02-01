@@ -32,7 +32,7 @@ Please cite our paper if you find this code useful for your research:
 - `data/`
   - `data_prepare.py`: constructing cross-domain scenario from overlapping users;
   - `dataset.py`: defining the class of cross-domain dataset;
-- `src/`
+- `runner/`
   - `main.py`: the main function (including the configurations);
   - `model.py`: the detail implementation of PPGN;
   - `train.py`: training and evaluation;
